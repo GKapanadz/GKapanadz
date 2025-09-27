@@ -1,8 +1,8 @@
 - 👋 Hi, I'm Giorgi
-- 🎓 Student at Georgian Technical University
+- 🎓 Graduated Georgian Technical University
 - Faculty of Informatics and Management Systems
 - 💻 .Net Developer
-- Experienced with Windows Forms, databases, and management systems
-- 🌱 Currently learning: Advanced C# and software architecture
+- Experienced with Windows Forms, databases, and management systems, Ado.Net, Entity Framework,
+- 🌱 Currently learning: ASP.Net and Web Api
 - 🎯 Goal: Building innovative and efficient software solutions
 - 🤝 Let's connect!
